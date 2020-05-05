@@ -1,0 +1,5 @@
+/home/usuario/Projects/Ejercicio4/Ejercicio4b/bin/Debug/Ejercicio4b.exe
+/home/usuario/Projects/Ejercicio4/Ejercicio4b/bin/Debug/Ejercicio4b.pdb
+/home/usuario/Projects/Ejercicio4/Ejercicio4b/obj/x86/Debug/Ejercicio4b.exe
+/home/usuario/Projects/Ejercicio4/Ejercicio4b/obj/x86/Debug/Ejercicio4b.pdb
+/home/usuario/Projects/Ejercicio4/Ejercicio4b/obj/x86/Debug/Ejercicio4b.csprojAssemblyReference.cache

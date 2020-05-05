@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{48C0D858-DC81-4426-8A1D-57C0AF30719C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ejercicio4b PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio4b/ArbolGeneral.cs">
+    <Files>
+      <File FileName="Ejercicio4b/Program.cs" Line="43" Column="49" />
+      <File FileName="Ejercicio4b/NodoGeneral.cs" Line="1" Column="14" />
+      <File FileName="Ejercicio4b/Cola.cs" Line="1" Column="14" />
+      <File FileName="Ejercicio4b/ArbolGeneral.cs" Line="114" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio4" expanded="True">
+            <Node name="Ejercicio4b" expanded="True">
+              <Node name="ArbolGeneral.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
